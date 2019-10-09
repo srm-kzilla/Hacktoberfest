@@ -13,3 +13,4 @@
 * [Aparna Srivastava](https://github.com/Aparna6)
 * [Ritvick V. Pandey](https://github.com/ritvick-me)
 * [Shrey Sachdeva](https://github.com/shrey-sachdeva2000)
+* [Abhuday Mishra](https://github.com/abhudaym)
