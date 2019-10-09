@@ -1,0 +1,264 @@
+/* ======================== */
+/*          IMPORTS         */
+/* ======================== */
+@import url('https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700&display=swap');
+
+/* ======================== */
+/*          GLOBALS         */
+/* ======================== */
+:root{
+  --grey: #d8d8d8;
+  --white: #fafafa;
+  --black: #202020;
+  --primary: #152347;
+  --accent: #ff00aa;
+}
+
+*{
+  padding: 0;
+  margin: 0;
+}
+
+html, body{
+  min-height: 100%;
+  height: 100%;
+}
+
+body{
+  font-size: 16px;
+  text-rendering: optimizeLegibility;
+  font-family: 'Ubuntu Mono', monospace;
+  box-sizing: border-box;
+}
+
+a.kz-btn{
+  padding: 12px 16px;
+  background-color: var(--accent);
+  border-radius: 4px;
+  text-decoration: none;
+  margin-top: 16px;
+  display: inline-block;
+  color: var(--white);
+  text-transform: lowercase;
+}
+
+.kz-btn::after{
+  content: ' →';
+}
+
+/* ================================ */
+/*         Section 0: HERO          */
+/* ================================ */
+
+section.kz-hero{
+  background-color: var(--primary);
+  position: relative;
+  min-height: 100vh;
+  color: var(--white);
+}
+
+navbar{
+  display: flex;
+  justify-content: space-between;
+  padding: 24px 16px;
+}
+
+navbar img{
+  height: 64px;
+  width: auto;
+}
+
+.kz-title{
+  position: absolute;
+  top: 45%;
+  left: 30%;
+  transform: translate(-50%, -50%);
+}
+
+.kz-title h1{
+  font-size: 5em;
+}
+
+.kz-title h3{
+  font-size: 2em;
+  line-height: 1.1;
+  color: var(--grey);
+}
+
+img.kz-tagline{
+  position: absolute;
+  bottom: 6%;
+  right: 2%;
+  height: 16%;
+  width: auto;
+  transform: rotate(-4deg);
+}
+
+/* ================================ */
+/*        Section 1: HOW TO         */
+/* ================================ */
+
+section.kz-how-to{
+  padding: 32px 0;
+  display: flex;
+}
+
+.kz-how-to-box{
+  background-color: var(--primary);
+  margin: 0 auto;
+  width: 90%;
+  border-radius: 12px;
+  padding: 36px 24px;
+  color: var(--white);
+}
+
+.kz-how-to-box h3{
+  font-size: 2em;
+}
+
+.kz-how-to-box p{
+  margin: 32px 0;
+}
+
+.kz-how-to-box h4{
+  font-size: 1.3em;
+}
+
+/* ================================ */
+/*     Section 2: CONTRIBUTORS      */
+/* ================================ */
+
+section.kz-contributors{
+  background-color: var(--primary);
+  color: var(--grey);
+  
+  padding: 32px 0 12px 0;
+}
+
+section.kz-contributors > h2{
+  text-align: center;
+  font-size: 2em;
+}
+
+.kz-contributor{
+  color: var(--black);
+  background-color: var(--white);
+  border-radius: 4px;
+  padding: 16px;
+  margin-bottom: 24px;
+  text-align: center;
+}
+
+.kz-row{
+  display: flex;
+  width: 90%;
+  margin: 42px auto;
+  flex-flow: row wrap;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.kz-contributor{
+  flex: 0 1 21%;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.kz-contributor h5{
+  font-size: 1.4em;
+  letter-spacing: 0.4px;
+}
+
+.kz-contributor blockquote{
+  font-size: 1em;
+  margin: 16px 0;
+  color: var(--black);
+}
+
+footer{
+  margin-top: 4em;
+}
+
+footer p{
+  text-align: center;
+  font-size: 0.9em;
+  margin-bottom: 8px;
+}
+
+footer p span{
+  color: var(--accent);
+}
+
+footer p a{
+  padding-bottom: 4px;
+  border-bottom: 1px dashed transparent;
+  text-decoration: none;
+  color: var(--accent);
+  transition: all 0.2s;
+}
+
+footer p a:hover{
+  border-bottom-color: var(--grey);
+}
+
+@media only screen and (max-width: 970px){
+  .kz-title{
+    left: 45%;
+  }
+
+  .kz-contributor{
+    flex: 0 1 44%;
+  }
+}
+
+@media only screen and (max-width: 640px){
+  .kz-title{
+    left: 50%;
+  }
+
+  .kz-contributor{
+    flex: 0 1 100%;
+  }
+
+  .kz-title h1{
+    font-size: 4em;
+  }
+  
+  .kz-title h3{
+    font-size: 1.5em;
+  }
+}
+
+@media only screen and (max-width: 480px){
+  .kz-contributor{
+    flex: 0 1 100%;
+  }
+
+  .kz-title h1{
+    font-size: 3.4em;
+  }
+  
+  .kz-title h3{
+    font-size: 2em;
+  }
+  img.kz-tagline{
+    width: 80%;
+    height: auto;  
+  }
+
+  @media only screen and (max-width: 370px){
+    .kz-title h1{
+      font-size: 3em;
+    }
+    
+    .kz-title h3{
+      font-size: 2em;
+    }
+
+    section.kz-contributors > h2{
+      font-size: 1.7em;
+    }
+  }
+}
