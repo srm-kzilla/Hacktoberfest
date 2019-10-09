@@ -5,7 +5,7 @@
 
 Brace yourself for a month of awesomeness and intense coding: it's  [Hacktoberfest](https://hacktoberfest.digitalocean.com/)!
 
-Hacktoberfest is one of the biggest open source fests of the year. You just have to submit 5 Pull Requests to any open source repository, and you can get some cool swags from DigitalOcean!
+Hacktoberfest is one of the biggest open source fests of the year. You just have to submit 4 Pull Requests to any open source repository, and you can get some cool swags from DigitalOcean!
 
 If you don't know where to begin, don't fret. We at [SRMKZILLA](https://srmkzilla.net/) will guide you through your first open source contribution.
 
@@ -125,7 +125,7 @@ Happy Hacking!
 You are now all set to conquer the world of open source!
 1. Explore around GitHub to find a lot more open source repositories.
 2. Submit a PR to the repository. A PR can be anything from a simple typo fix to an entire codebase rewrite.
-3. After submitting a total of 5 PRs (including the one you submitted in this tutorial), you are now qualified to get some cool swags from DigitalOcean.
+3. After submitting a total of 4 PRs (including the one you submitted in this tutorial), you are now qualified to get some cool swags from DigitalOcean.
 4. Head over to the [Hacktoberfest website](https://hacktoberfest.digitalocean.com/profile) and claim your swags!
 
 ## SRMKZILLA :hearts: Open Source
