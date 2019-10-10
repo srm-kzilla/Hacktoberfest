@@ -13,4 +13,6 @@
 * [Aparna Srivastava](https://github.com/Aparna6)
 * [Ritvick V. Pandey](https://github.com/ritvick-me)
 * [Shrey Sachdeva](https://github.com/shrey-sachdeva2000)
+* [Sarthak Agrawal](https://github.com/sarthakagrawal9128)
+* [Abhuday Mishra](https://github.com/abhudaym)
 * [Gita Alekhya Paul](https://github.com/gitaalekhyapaul)
