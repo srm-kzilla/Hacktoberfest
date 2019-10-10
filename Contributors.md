@@ -15,4 +15,6 @@
 * [Shrey Sachdeva](https://github.com/shrey-sachdeva2000)
 * [Sarthak Agrawal](https://github.com/sarthakagrawal9128)
 * [Abhuday Mishra](https://github.com/abhudaym)
+* [Gita Alekhya Paul](https://github.com/gitaalekhyapaul)
+* [Akshat Khanna](https://github.com/khannakshat7)
 * [Sukkrit Sharma](https://github.com/sukkritsharmaofficial)
