@@ -17,3 +17,4 @@
 * [Abhuday Mishra](https://github.com/abhudaym)
 * [Gita Alekhya Paul](https://github.com/gitaalekhyapaul)
 * [Akshat Khanna](https://github.com/khannakshat7)
+* [SunandanChakrabarti](https://github.com/SunandanChakrabarti)
