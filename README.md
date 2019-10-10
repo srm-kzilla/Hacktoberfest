@@ -66,7 +66,7 @@ You can open `index.html` in your browser to see the edited website.
 ## Commit your changes
 Now that you have made all the changes required, you can tell Git to save these changes and **commit** them to its memory.
 
-Before commiting the changes, you must tell Git which files are suppossed to be considered for the commit. This is called **adding** files. To add files exectue the following command:
+Before commiting the changes, you must tell Git which files are suppossed to be considered for the commit. This is called **adding** files. To add files execute the following command:
 `git add file1 file2 ...`
 
 In our case, the command would be:
