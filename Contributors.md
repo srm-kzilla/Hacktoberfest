@@ -20,3 +20,4 @@
 * [Bhavesh Gupta](https://github.com/bhavesh-g)
 * [Kusum Paraag Grandhi](https://github.com/tinyfiddle4864)
 * [Rahul Sharma](https://github.com/RahulSharma099)
+* [Jayvardhan Patyal](https://github.com/JayPatyal)
