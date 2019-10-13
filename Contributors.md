@@ -27,3 +27,4 @@
 * [Jayvardhan Patyal](https://github.com/JayPatyal)
 * [Devang Bajpai](https://github.com/DevangBajpai)
 * [Disha Sharma](https://github.com/Disha5harma)
+* [Vedant Mishra](https://github.com/vedant8970)
