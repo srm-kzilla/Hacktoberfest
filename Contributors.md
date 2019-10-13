@@ -24,3 +24,4 @@
 * [Phong Duong](https://github.com/phongduong)
 * [HiranyaGarbh Choudhary](https://github.com/hiranyagarbh)
 * [Anubhav Soam](https://github.com/Anubhav-soam)
+* [Jayvardhan Patyal](https://github.com/JayPatyal)
