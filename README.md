@@ -5,9 +5,9 @@
 
 Brace yourself for a month of awesomeness and intense coding: it's  [Hacktoberfest](https://hacktoberfest.digitalocean.com/)!
 
-Hacktoberfest is one of the biggest open source fests of the year. You just have to submit 4 Pull Requests to any open source repository, and you can get some cool swags from DigitalOcean!
+Hacktoberfest is one of the biggest open-source fests of the year. You just have to submit 4 Pull Requests to any open-source repository, and you can get some cool swags from DigitalOcean!
 
-If you don't know where to begin, don't fret. We at [SRMKZILLA](https://srmkzilla.net/) will guide you through your first open source contribution.
+If you don't know where to begin, don't fret. We at [SRMKZILLA](https://srmkzilla.net/) will guide you through your first open-source contribution.
 
 Let's get cracking!
 ## Install Git
@@ -49,7 +49,7 @@ Replace `url` with the link you copied. Wait for a few seconds, and then you sho
 ![
 ](https://i.imgur.com/wGceXAR.png "Clone the repository")
 ## Add your name to `Contributors.md`
-Open up the repository folder in your favourite text editor. If you don't have one, you can use [Visual Studio Code](https://code.visualstudio.com/download) (which is a hugely popular open source project on GitHub). Anything but Notepad will do.
+Open up the repository folder in your favourite text editor. If you don't have one, you can use [Visual Studio Code](https://code.visualstudio.com/download) (which is a hugely popular open-source project on GitHub). Anything but Notepad will do.
 
 Open the file `Contributors.md`. You should see the list of people who have contributed to this project. Go ahead, add your name in there too. You deserve it.
 
@@ -66,7 +66,7 @@ You can open `index.html` in your browser to see the edited website.
 ## Commit your changes
 Now that you have made all the changes required, you can tell Git to save these changes and **commit** them to its memory.
 
-Before commiting the changes, you must tell Git which files are suppossed to be considered for the commit. This is called **adding** files. To add files exectue the following command:
+Before commiting the changes, you must tell Git which files are suppossed to be considered for the commit. This is called **adding** files. To add files execute the following command:
 `git add file1 file2 ...`
 
 In our case, the command would be:
@@ -96,11 +96,11 @@ To push your code, execute the following command:
 ![
 ](https://i.imgur.com/FJ7VVM5.png "Push your changes")
 ## Create a Pull Request
-The code you just pushed exists only in your version of the repository. To integrate the changes into the original Hacktoberfest repository, you need to create what's called a **Pull Request**. A Pull Request is essentially a request to the owners of a repository to add your code. This is what makes open source projects so powerful, anyone can come and bring in their creativity.
+The code you just pushed exists only in your version of the repository. To integrate the changes into the original Hacktoberfest repository, you need to create what's called a **Pull Request**. A Pull Request is essentially a request to the owners of a repository to add your code. This is what makes open-source projects so powerful, anyone can come and bring in their creativity.
 
 If you go to your repository, you will see a bar on the top suggesting you to create a new Pull Request. Click on it. You will be taken to a screen which shows you all the changes you made, and a box in which you can add comments on the pull request. Note that this is different than the messasge you entered for a commit.
 
-A pull request can have multiple commits. Anyone can come in and suggest edits to a pull requests to further refine the changes. Pull Requests really are what makes the open source community so powerful.
+A pull request can have multiple commits. Anyone can come in and suggest edits to a pull requests to further refine the changes. Pull Requests really are what makes the open-source community so powerful.
 
 ![
 ](https://i.imgur.com/Gv3XakV.png "Pull Request")
@@ -114,7 +114,7 @@ A pull request can have multiple commits. Anyone can come in and suggest edits t
 
 Submit the Pull Request and we will review it as soon as we can.
 ## Voila!
-Give yourself a pat on the back, because you have just taken the first step on your journey of open source contributions. Welcome to the community!
+Give yourself a pat on the back, because you have just taken the first step on your journey of open-source contributions. Welcome to the community!
 
 We love pats, too. It would really be helpful to us if you would star this repository to let us know that you appreciate our endeavours.
 
@@ -122,16 +122,16 @@ If you got stuck somewhere or have any questions (or just wanna say hello), feel
 
 Happy Hacking!
 ## Next steps
-You are now all set to conquer the world of open source!
-1. Explore around GitHub to find a lot more open source repositories.
+You are now all set to conquer the world of open-source!
+1. Explore around GitHub to find a lot more open-source repositories.
 2. Submit a PR to the repository. A PR can be anything from a simple typo fix to an entire codebase rewrite.
 3. After submitting a total of 4 PRs (including the one you submitted in this tutorial), you are now qualified to get some cool swags from DigitalOcean.
 4. Head over to the [Hacktoberfest website](https://hacktoberfest.digitalocean.com/profile) and claim your swags!
 
-## SRMKZILLA :hearts: Open Source
-> In the spirit of openness, for the love of open source.
+## SRMKZILLA :hearts: Open-Source
+> In the spirit of openness, for the love of open-source.
 
-Open source software is at the heart of SRMKZILLA. At SRMKZILLA, we’ve always used open source to innovate. We want to give something back; we enjoy being a part of the community. We often release code or share best practices we developed. But sometimes, it's just fun and interesting code.
+Open-source software is at the heart of SRMKZILLA. At SRMKZILLA, we’ve always used open-source to innovate. We want to give something back; we enjoy being a part of the community. We often release code or share best practices we developed. But sometimes, it's just fun and interesting code.
 
 Do check our team out [here](https://srmkzilla.net/us.html)!
 
