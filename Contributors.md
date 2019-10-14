@@ -30,3 +30,4 @@
 * [Vedant Mishra](https://github.com/vedant8970)
 * [Snehil](https://github.com/sneakySensei)
 * [Sundaram Gupta](https://github.com/sundaramgupta)
+* [Kapeesh Kaul](https://github.com/kapeesh-kaul)
