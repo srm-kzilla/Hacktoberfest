@@ -23,7 +23,7 @@ To check if Git was installed properly on your system, go to the Command Line (T
 GitHub is the de facto code sharing platform in the industry. It hosts your code for you so you can show off your awesome projects to the world. GitHub uses Git (hence the name) for version control.
 
 ![
-](https://imgur.com/EmEjjqd "Register on Github")
+](https://i.imgur.com/EmEjjqd.png "Register on Github")
 
 To get started with GitHub, head over to [the website](https://github.com) and create an account. 
 ## Register for Hacktoberfest
