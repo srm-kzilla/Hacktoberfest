@@ -1,6 +1,6 @@
 # Awesome Contributors
-
 * [Sriram Kailasam](https://github.com/sriram-kailasam)
+* [Iishi Patel](https://github.com/iishipatel)
 * [Ishan Chhabra](https://github.com/ishan-chhabra)
 * [Shrey Sachdeva](https://github.com/shrey-sachdeva2000)
 * [Shubhayan Saha](https://github.com/shubhayans)
