@@ -31,3 +31,4 @@
 * [Snehil](https://github.com/sneakySensei)
 * [Sundaram Gupta](https://github.com/sundaramgupta)
 * [Kapeesh Kaul](https://github.com/kapeesh-kaul)
+* [Kush Shah](https://github.com/shahkv95)
