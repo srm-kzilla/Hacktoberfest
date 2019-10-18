@@ -1,6 +1,6 @@
 # Awesome Contributors
-
 * [Sriram Kailasam](https://github.com/sriram-kailasam)
+* [Iishi Patel](https://github.com/iishipatel)
 * [Ishan Chhabra](https://github.com/ishan-chhabra)
 * [Shrey Sachdeva](https://github.com/shrey-sachdeva2000)
 * [Shubhayan Saha](https://github.com/shubhayans)
@@ -31,6 +31,7 @@
 * [Snehil](https://github.com/sneakySensei)
 * [Sundaram Gupta](https://github.com/sundaramgupta)
 * [Kapeesh Kaul](https://github.com/kapeesh-kaul)
+* [Iishi Patel](https://github.com/iishipatel)
 * [Omkar](https://github.com/omkarsgit)
 * [KU$H $H@H](https://github.com/shahkv95)
 * [Samuel Owadl](https://github.com/samuelowad)
