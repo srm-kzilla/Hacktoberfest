@@ -31,4 +31,5 @@
 * [Snehil](https://github.com/sneakySensei)
 * [Sundaram Gupta](https://github.com/sundaramgupta)
 * [Kapeesh Kaul](https://github.com/kapeesh-kaul)
+* [Mihir Soni](https://github.com/mihirsoni826)
 * [Samuel Owadl](https://github.com/samuelowad)
