@@ -1,3 +1,8 @@
+## Update (21 October 2019)
+Due to DigitalOcean’s stringent review process and policies this year, pull requests to this repository will not be considered for HacktoberFest. That said, this README still remains very relevant for anyone who wants to take the first step towards contributing to open-source software and get a basic understanding of Git and GitHub.
+
+Apologies for the inconvenience caused.
+
 # Hack your way through October
 ![Author - SRMKZILLA](https://img.shields.io/badge/author-SRMKZILLA-orange)
 ![Open Source](https://img.shields.io/badge/-Open%20Source-green)
