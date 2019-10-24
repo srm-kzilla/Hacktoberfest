@@ -4,6 +4,7 @@
 * [Ishan Chhabra](https://github.com/ishan-chhabra)
 * [Shrey Sachdeva](https://github.com/shrey-sachdeva2000)
 * [Shubhayan Saha](https://github.com/shubhayans)
+* [Shubham Kumar Singh](https://github.com/krsinghshubham)
 * [Dhruvil Shah](https://github.com/dhruvilshah25)
 * [Vanshika Bhojnagarwala](https://github.com/vanshika703)
 * [Aakash Sharma](https://github.com/n9267aakashsharma)
