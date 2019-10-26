@@ -1,9 +1,10 @@
 # Awesome Contributors
-
 * [Sriram Kailasam](https://github.com/sriram-kailasam)
+* [Iishi Patel](https://github.com/iishipatel)
 * [Ishan Chhabra](https://github.com/ishan-chhabra)
 * [Shrey Sachdeva](https://github.com/shrey-sachdeva2000)
 * [Shubhayan Saha](https://github.com/shubhayans)
+* [Shubham Kumar Singh](https://github.com/krsinghshubham)
 * [Dhruvil Shah](https://github.com/dhruvilshah25)
 * [Vanshika Bhojnagarwala](https://github.com/vanshika703)
 * [Aakash Sharma](https://github.com/n9267aakashsharma)
@@ -32,3 +33,8 @@
 * [Sundaram Gupta](https://github.com/sundaramgupta)
 * [Kapeesh Kaul](https://github.com/kapeesh-kaul)
 * [Riya Jindal](https://github.com/riyajindal2k/Hacktoberfest)
+* [Iishi Patel](https://github.com/iishipatel)
+* [Omkar](https://github.com/omkarsgit)
+* [KU$H $H@H](https://github.com/shahkv95)
+* [Samuel Owadl](https://github.com/samuelowad)
+* [Kishan Kumar](https://github.com/kishankrs)
