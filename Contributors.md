@@ -38,3 +38,4 @@
 * [KU$H $H@H](https://github.com/shahkv95)
 * [Samuel Owadl](https://github.com/samuelowad)
 * [Kishan Kumar](https://github.com/kishankrs)
+* [Vinayak Dubey][https://github.com/viny1ic]
