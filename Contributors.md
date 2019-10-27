@@ -37,4 +37,5 @@
 * [Omkar](https://github.com/omkarsgit)
 * [KU$H $H@H](https://github.com/shahkv95)
 * [Samuel Owadl](https://github.com/samuelowad)
-* [Kishan Kumar](https://github.com/kishankrs)* [Ram Maheshwari](https://github.com/maheshwariram)
+* [Kishan Kumar](https://github.com/kishankrs)
+* [Ram Maheshwari](https://github.com/maheshwariram)
