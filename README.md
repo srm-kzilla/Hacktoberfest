@@ -139,3 +139,8 @@ Open-source software is at the heart of SRMKZILLA. At SRMKZILLA, we’ve always 
 Do check our team out [here](https://srmkzilla.net/us.html)!
 
 Wanna see what's cooking? [Here you go](https://github.com/srm-kzilla)!
+
+### In association with
+<img src="https://i.ibb.co/C2d2hkn/MSP-visual-ID-RGB-1line-blue-Copy.jpg" alt="drawing" width="300"/>
+
+> Partner: Smiral Rashinkar
